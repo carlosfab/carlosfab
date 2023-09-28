@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Update this repo's README with RSS Feed
 
 on:
   schedule:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # This ensures the checkout action uses the GitHub token
 
       - name: Update README with RSS feed
         uses: JasonEtco/rss-to-readme@v1
@@ -20,3 +22,6 @@ jobs:
           readme-section: feed
           max: 10
           template: "* [{{ title }}]({{ link }})\n"
+          path: README.md
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use the provided GITHUB_TOKEN for authentication
+          branch: main
