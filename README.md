@@ -1,6 +1,31 @@
 [<img src="https://raw.githubusercontent.com/carlosfab/carlosfab/master/github-banner.png" alt="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)" title="👋 Hi there! I'm Carlos Melo | https://sigmoidal.ai/en)"/>](https://sigmoidal.ai/en/)
 
+<div align="center">
+  
+  [![GitHub Badge](https://img.shields.io/badge/-carlosfab-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/carlosfab)](https://github.com/carlosfab)
+  [![Instagram Badge](https://img.shields.io/badge/-carlos_melo.py-E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/carlos_melo.py/)](https://www.instagram.com/carlos_melo.py)
+  [![Linkedin Badge](https://img.shields.io/badge/-carlos--melo--data--science-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-melo-data-science/)](https://www.linkedin.com/in/carlos-melo-data-science/)
+  [![Blog Badge](https://img.shields.io/badge/-sigmoidal.ai-FF4088?style=flat-square&logo=Blogger&link=https://sigmoidal.ai)](https://sigmoidal.ai)
+  [![Twitter Badge](https://img.shields.io/badge/-carlos_melo_py-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/carlos_melo_py)](https://twitter.com/carlos_melo_py)
+  [![YouTube Badge](https://img.shields.io/badge/-@CarlosMeloSigmoidal-red?style=flat-square&logo=YouTube&link=https://www.youtube.com/@CarlosMeloSigmoidal)](https://www.youtube.com/@CarlosMeloSigmoidal)
+  
+</div>
+
 ---
+
+<p align="center">
+I'm a <strong>Computer Vision Engineer</strong> with a background in Aeronautical Sciences from the Air Force Academy and a <strong>Master's in Aerospace Engineering</strong> from the Aeronautical Technological Institute (ITA). In 2019, I founded Sigmoidal, a firm specializing in CV&ML consulting and immersive training programs. To date, I've educated over 6,000 technology enthusiasts.
+</p>
+
+<p align="center"> 
+Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the Air Force</strong> (3,000 flight hours), headed the Space Operations Center, and was a researcher at the Institute for Advanced Studies. And, above all, <strong>I'm married to an extraordinary woman and am the proud father of five</strong>.
+</p>
+<br>
+
+### Skills  
+
+<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
+
 
 ### 📚 Latest Blog Posts
 
