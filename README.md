@@ -3,7 +3,7 @@
 ---
 
 ### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
----
+<!--START_SECTION:feed-->
+<!-- Placeholder; this will be replaced by the actual content -->
+<!--END_SECTION:feed-->
