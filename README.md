@@ -2,12 +2,11 @@
 
 <div align="center">
   
-  [![GitHub Badge](https://img.shields.io/badge/-carlosfab-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/carlosfab)](https://github.com/carlosfab)
-  [![Instagram Badge](https://img.shields.io/badge/-carlos_melo.py-E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/carlos_melo.py/)](https://www.instagram.com/carlos_melo.py)
-  [![Linkedin Badge](https://img.shields.io/badge/-carlos--melo--data--science-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-melo-data-science/)](https://www.linkedin.com/in/carlos-melo-data-science/)
-  [![Blog Badge](https://img.shields.io/badge/-sigmoidal.ai-FF4088?style=flat-square&logo=Blogger&link=https://sigmoidal.ai)](https://sigmoidal.ai)
-  [![Twitter Badge](https://img.shields.io/badge/-carlos_melo_py-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/carlos_melo_py)](https://twitter.com/carlos_melo_py)
-  [![YouTube Badge](https://img.shields.io/badge/-@CarlosMeloSigmoidal-red?style=flat-square&logo=YouTube&link=https://www.youtube.com/@CarlosMeloSigmoidal)](https://www.youtube.com/@CarlosMeloSigmoidal)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-melo-data-science/)](https://www.linkedin.com/in/carlos-melo-data-science/)
+  [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CarlosMeloSigmoidal)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_melo.py)
+  [![Twitter Badge](https://img.shields.io/twitter/follow/:carlos_melo_py)](https://twitter.com/carlos_melo_py)
+
   
 </div>
 
