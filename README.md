@@ -12,11 +12,11 @@
 
 ---
 
-<p align="center">
+<p align="left">
 I'm a <strong>Computer Vision Engineer</strong> with a background in Aeronautical Sciences from the Air Force Academy and a <strong>Master's in Aerospace Engineering</strong> from the Aeronautical Technological Institute (ITA). In 2019, I founded Sigmoidal, a firm specializing in CV&ML consulting and immersive training programs. To date, I've educated over 6,000 technology enthusiasts.
 </p>
 
-<p align="center"> 
+<p align="left"> 
 Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the Air Force</strong> (3,000 flight hours), headed the Space Operations Center, and was a researcher at the Institute for Advanced Studies. And, above all, <strong>I'm married to an extraordinary woman and am the proud father of five</strong>.
 </p>
 <br>
