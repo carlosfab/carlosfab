@@ -29,6 +29,7 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [k-Nearest Neighbors (k-NN) for Classifying RR Lyrae Stars](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;k-nearest-neighbors-k-nn-for-classifying-rr-lyrae-stars&#x2F;)
 * [Building Rome in a Day: 3D Reconstruction with Computer Vision](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-rome-in-a-day-3d-reconstruction-with-computer-vision&#x2F;)
 * [Learn Camera Calibration using OpenCV](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;learn-camera-calibration-using-opencv-and-python&#x2F;)
 * [Real-time Human Pose Estimation using MediaPipe](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;real-time-human-pose-estimation-using-mediapipe&#x2F;)
