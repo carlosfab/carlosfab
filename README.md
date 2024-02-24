@@ -29,6 +29,7 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Depth Estimation on Single Camera with Depth Anything](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;depth-estimation-on-single-camera-with-depth-anything&#x2F;)
 * [Point Cloud Processing with Open3D and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;point-cloud-processing-with-open3d-and-python&#x2F;)
 * [Apollo 13 Lessons for Job Landing in Machine Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;apollo-13-lessons-for-job-landing-in-machine-learning&#x2F;)
 * [k-Nearest Neighbors (k-NN) for Classifying RR Lyrae Stars](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;k-nearest-neighbors-k-nn-for-classifying-rr-lyrae-stars&#x2F;)
@@ -38,5 +39,4 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 * [What is Computer Vision and How does it work?](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-computer-vision-how-does-it-work&#x2F;)
 * [ORB-SLAM 3: A Tool for 3D Mapping and Localization](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;orb-slam-3-a-tool-for-3d-mapping-and-localization&#x2F;)
 * [Building a Deep Learning Neural Network using TensorFlow](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-a-deep-learning-neural-using-network-tensorflow&#x2F;)
-* [Matrix Transformations and Coordinate Systems with Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;matrix-transformations-and-coordinate-systems-with-python&#x2F;)
 <!--END_SECTION:feed-->
