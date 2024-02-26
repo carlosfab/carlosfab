@@ -29,6 +29,7 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [YOLOv9: A Step-by-Step Tutorial for Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolov9-step-by-step-tutorial-object-detection&#x2F;)
 * [Depth Estimation on Single Camera with Depth Anything](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;depth-estimation-on-single-camera-with-depth-anything&#x2F;)
 * [Point Cloud Processing with Open3D and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;point-cloud-processing-with-open3d-and-python&#x2F;)
 * [Apollo 13 Lessons for Job Landing in Machine Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;apollo-13-lessons-for-job-landing-in-machine-learning&#x2F;)
@@ -38,5 +39,4 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 * [Real-time Human Pose Estimation using MediaPipe](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;real-time-human-pose-estimation-using-mediapipe&#x2F;)
 * [What is Computer Vision and How does it work?](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-computer-vision-how-does-it-work&#x2F;)
 * [ORB-SLAM 3: A Tool for 3D Mapping and Localization](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;orb-slam-3-a-tool-for-3d-mapping-and-localization&#x2F;)
-* [Building a Deep Learning Neural Network using TensorFlow](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-a-deep-learning-neural-using-network-tensorflow&#x2F;)
 <!--END_SECTION:feed-->
