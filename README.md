@@ -29,6 +29,7 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [What is Sampling and Quantization in Image Processing](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-sampling-and-quantization-in-image-processing&#x2F;)
 * [Histogram Equalization with OpenCV and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;histogram-equalization-with-opencv-and-python&#x2F;)
 * [How to Train YOLOv9 on Custom Dataset – A Complete Tutorial](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;how-to-train-yolov9-on-custom-dataset-a-complete-tutorial&#x2F;)
 * [YOLOv9: A Step-by-Step Tutorial for Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolov9-step-by-step-tutorial-object-detection&#x2F;)
@@ -38,5 +39,4 @@ Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the A
 * [k-Nearest Neighbors (k-NN) for Classifying RR Lyrae Stars](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;k-nearest-neighbors-k-nn-for-classifying-rr-lyrae-stars&#x2F;)
 * [Building Rome in a Day: 3D Reconstruction with Computer Vision](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-rome-in-a-day-3d-reconstruction-with-computer-vision&#x2F;)
 * [Learn Camera Calibration using OpenCV](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;learn-camera-calibration-using-opencv-and-python&#x2F;)
-* [Real-time Human Pose Estimation using MediaPipe](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;real-time-human-pose-estimation-using-mediapipe&#x2F;)
 <!--END_SECTION:feed-->
