@@ -13,11 +13,14 @@
 ---
 
 <p align="left">
-I'm a <strong>Computer Vision Engineer</strong> with a background in Aeronautical Sciences from the Air Force Academy and a <strong>Master's in Aerospace Engineering</strong> from the Aeronautical Technological Institute (ITA). In 2019, I founded Sigmoidal, a firm specializing in CV&ML consulting and immersive training programs. To date, I've educated over 6,000 technology enthusiasts.
+I'm a <strong>Data Scientist</strong> with 8+ years of experience and a strong background in <strong>Computer Vision</strong>. 
+Proficient in <strong>Python</strong> and experienced with deep learning frameworks such as <strong>PyTorch</strong>, <strong>TensorFlow</strong>, and <strong>Scikit-learn</strong>. 
+I hold a <strong>U.S. Green Card</strong> under the <strong>EB1A category (Extraordinary Ability)</strong>, awarded to professionals recognized for outstanding achievements in their field.
 </p>
 
-<p align="left"> 
-Before becoming a Computer Vision Engineer, I served as a <strong>pilot in the Air Force</strong> (3,000 flight hours), headed the Space Operations Center, and was a researcher at the Institute for Advanced Studies. And, above all, <strong>I'm married to an extraordinary woman and am the proud father of five</strong>.
+<p align="left">
+Drawing from my background as a <strong>former military pilot</strong> with 1,000+ flight hours, I bring proven leadership under pressure and operational discipline to data-driven environments. 
+I executed missions in extreme conditions and coordinated complex aerospace operations, developing strong decision-making skills in high-stakes contexts.
 </p>
 <br>
 
