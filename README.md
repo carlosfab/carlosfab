@@ -32,6 +32,7 @@ I executed missions in extreme conditions and coordinated complex aerospace oper
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [YOLO26: What Changed in Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolo26-end-to-end-object-detection&#x2F;)
 * [Transfer Learning with PyTorch: A Hands-On Guide](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;transfer-learning-with-pytorch&#x2F;)
 * [Vision Transformer (ViT): Python Implementation](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;vision-transformer-vit-python-implementation&#x2F;)
 * [Grad-CAM: Visualizing What a Neural Network Sees](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;grad-cam-visualizing-neural-network&#x2F;)
@@ -41,5 +42,4 @@ I executed missions in extreme conditions and coordinated complex aerospace oper
 * [YOLOv9: A Step-by-Step Tutorial for Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolov9-step-by-step-tutorial-object-detection&#x2F;)
 * [Depth Estimation on Single Camera with Depth Anything](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;depth-estimation-on-single-camera-with-depth-anything&#x2F;)
 * [Point Cloud Processing with Open3D and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;point-cloud-processing-with-open3d-and-python&#x2F;)
-* [Apollo 13 Lessons for Job Landing in Machine Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;apollo-13-lessons-for-job-landing-in-machine-learning&#x2F;)
 <!--END_SECTION:feed-->
