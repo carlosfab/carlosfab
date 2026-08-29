@@ -33,13 +33,13 @@ I executed missions in extreme conditions and coordinated complex aerospace oper
 
 <!--START_SECTION:feed-->
 * [YOLO26: What Changed in Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolo26-end-to-end-object-detection&#x2F;)
+* [SonicFly: How Drones Pursue Each Other by Sound](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;sonicfly-drone-pursuit-by-sound&#x2F;)
+* [DETR: Object Detection as Set Prediction](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;detr-object-detection-set-prediction&#x2F;)
+* [Scikit-Learn Pipelines: Prevent Data Leakage](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;scikit-learn-pipelines-prevent-data-leakage&#x2F;)
+* [Binary Cross-Entropy and Logistic Regression](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;binary-cross-entropy-logistic-regression&#x2F;)
+* [Feature Detection for 3D Reconstruction](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;feature-detection-3d-reconstruction&#x2F;)
 * [Transfer Learning with PyTorch: A Hands-On Guide](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;transfer-learning-with-pytorch&#x2F;)
 * [Vision Transformer (ViT): Python Implementation](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;vision-transformer-vit-python-implementation&#x2F;)
 * [Grad-CAM: Visualizing What a Neural Network Sees](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;grad-cam-visualizing-neural-network&#x2F;)
-* [What is Sampling and Quantization in Image Processing](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-sampling-and-quantization-in-image-processing&#x2F;)
-* [Histogram Equalization with OpenCV and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;histogram-equalization-with-opencv-and-python&#x2F;)
-* [How to Train YOLOv9 on Custom Dataset – A Complete Tutorial](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;how-to-train-yolov9-on-custom-dataset-a-complete-tutorial&#x2F;)
-* [YOLOv9: A Step-by-Step Tutorial for Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolov9-step-by-step-tutorial-object-detection&#x2F;)
-* [Depth Estimation on Single Camera with Depth Anything](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;depth-estimation-on-single-camera-with-depth-anything&#x2F;)
-* [Point Cloud Processing with Open3D and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;point-cloud-processing-with-open3d-and-python&#x2F;)
+* [Detecting Image Blur with FFT in Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;fft-blur-detection-python&#x2F;)
 <!--END_SECTION:feed-->
