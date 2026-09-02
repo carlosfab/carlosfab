@@ -20,7 +20,7 @@ jobs:
         with:
           feed-url: https://sigmoidal.ai/en/feed/
           readme-section: feed
-          max: 10
+          max: 15
           template: "* [{{ title }}]({{ link }})\n"
           path: README.md
           github_token: ${{ secrets.GITHUB_TOKEN }} # Use the provided GITHUB_TOKEN for authentication
