@@ -32,6 +32,7 @@ I executed missions in extreme conditions and coordinated complex aerospace oper
 ### 📚 Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Feature Store Summit 2026: A Free Production AI Conference](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;feature-store-summit-2026-free-ai-conference&#x2F;)
 * [YOLO26: What Changed in Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolo26-end-to-end-object-detection&#x2F;)
 * [SonicFly: How Drones Pursue Each Other by Sound](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;sonicfly-drone-pursuit-by-sound&#x2F;)
 * [DETR: Object Detection as Set Prediction](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;detr-object-detection-set-prediction&#x2F;)
@@ -46,5 +47,4 @@ I executed missions in extreme conditions and coordinated complex aerospace oper
 * [Histogram Equalization with OpenCV and Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;histogram-equalization-with-opencv-and-python&#x2F;)
 * [ORB-SLAM 3: A Tool for 3D Mapping and Localization](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;orb-slam-3-a-tool-for-3d-mapping-and-localization&#x2F;)
 * [How to Train YOLOv9 on Custom Dataset – A Complete Tutorial](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;how-to-train-yolov9-on-custom-dataset-a-complete-tutorial&#x2F;)
-* [YOLOv9: A Step-by-Step Tutorial for Object Detection](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;yolov9-step-by-step-tutorial-object-detection&#x2F;)
 <!--END_SECTION:feed-->
